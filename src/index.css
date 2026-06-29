@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+.swiper-button-prev,
+.swiper-button-next {
+    width: 35px !important;
+    height: 35px !important;
+    background: rgb(255, 255, 255) !important;
+    border-radius: 50%;
+    padding: 6px;
+    box-shadow: 2px 1px 1px 1px rgb(235, 235, 235);
+    color: black !important;
+    font-weight: bold !important;
+}
